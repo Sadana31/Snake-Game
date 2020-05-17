@@ -1,2 +1,2 @@
-# Snake-Game
-A game created using Visual Studio Code based on the concept of arrays.
+# p5.play-boilerplate
+Boiler plate for p5.play
